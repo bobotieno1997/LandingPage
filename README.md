@@ -1,7 +1,3 @@
-You're welcome! Below is a detailed structure and content for your **Power BI Developer Landing Page**, including **Managed Services** and **One-on-One Training** with SME-friendly pricing.  
-
----
-
 ## **Power BI Solutions for Your Business**  
 **Optimize Your Reports. Automate Insights. Scale Your Business.**  
 
